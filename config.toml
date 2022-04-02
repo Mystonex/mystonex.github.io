@@ -27,7 +27,7 @@ theme = "hugo-theme-shell"
   userName = "user"
   pcName = "mariani.systems"
   workDir = "website"
-  profile = "content"
+  profile = "contents"
 
   # Note: speed at which text is displayed on the terminal
   # Note: if set to 0, typing animation will be disabled
