@@ -14,8 +14,8 @@ theme = "hugo-theme-shell"
   scheme = "Molokai"
 
   # Note: in terminal
-  # [userName]@[pcName]:~/$ cd [workDir]
-  # [userName]@[pcName]:~/[workDir]$ cat [profile]
+   [userName]@[pcName]:~/# cd [workDir]
+   [userName]@[pcName]:~/[workDir]# cat [profile]
   #
   # [description]
   #
