@@ -17,7 +17,11 @@ theme = "hugo-theme-shell"
   # [userName]@[pcName]:~/# cd [workDir]
   # [userName]@[pcName]:~/[workDir]# cat [profile]
   #
-  # [description]
+  # [description2]
+  #
+  # [userName]@[pcName]:~/[workDir]# cat [profile1]
+  #
+  # [description1]
   #
   # Note: if you set Params.Tree > use = true
   # [userName]@[pcName]:~/[workDir]$ tree ./[folderName]/
@@ -27,7 +31,8 @@ theme = "hugo-theme-shell"
   userName = "user"
   pcName = "mariani.systems"
   workDir = "website"
-  profile = "contents"
+  profile = "index.html"
+  profile1 = "README.md"
 
   # Note: speed at which text is displayed on the terminal
   # Note: if set to 0, typing animation will be disabled
@@ -50,13 +55,18 @@ theme = "hugo-theme-shell"
 
   # activityDelay = 5 : deprecated
 
-  description = """
-  Hi User!
+  description1 = """
+  Welcome, User!
 
   Nice to see you here!
-  Unfortunately there is no content here yet :-(
+  There is no content on this Site ;-)
 
-  Check back later :-)
+  Farewell!
+
+  """
+
+  description2 = """
+  ... no content ...
 
   """
 
