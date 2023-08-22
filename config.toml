@@ -55,7 +55,7 @@ theme = "hugo-theme-shell"
 
   # activityDelay = 5 : deprecated
 
-  description1 = """
+  description = """
   Welcome, User!
 
   Nice to see you here!
