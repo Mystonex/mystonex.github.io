@@ -4,7 +4,7 @@ title = "mariani.systems"
 theme = "hugo-theme-shell"
 [Params]
   # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
-  description = "Jane Doe's Portfolio!"
+  description = "mariani.systems!"
   [Params.Terminal]
   # Note: color scheme
   # Note: You can choose between
@@ -56,15 +56,15 @@ theme = "hugo-theme-shell"
   # activityDelay = 5 : deprecated
 
   description = """
-  
-  
+   
+   
   Welcome, User!
 
   Nice to see you here!
   There is no content on this Site ;-)
 
   Farewell!
-
+   
 
   """
 
