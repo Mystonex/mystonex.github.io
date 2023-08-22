@@ -56,12 +56,15 @@ theme = "hugo-theme-shell"
   # activityDelay = 5 : deprecated
 
   description = """
+  
+  
   Welcome, User!
 
   Nice to see you here!
   There is no content on this Site ;-)
 
   Farewell!
+
 
   """
 
